@@ -15,16 +15,10 @@ $ open https://ru.wikipedia.org/wiki/Vim
 ## Tutorial
 
 ```ShellSession
-$ export GITHUB_USERNAME=<имя_пользователя>
-$ export HUNTER_VERSION=<версия_пакетного_менеджера>
-$ export HUNTER_ROOT=<путь_к_пакетного_менеджеру>
-```
-
-```ShellSession
 $ vimtutor ru # eng для упрощения прохождения
 ```
 
 ## Links
 
-- [Vim])https://en.wikipedia.org/wiki/Vim_(text_editor))
+- [Vim podcast](http://vimcasts.org/)
 - [Neovim](https://neovim.io/doc/user/)
